@@ -1,10 +1,10 @@
 Describe the benefits of high availability and scalability in the cloud.
 Describe the benefits of reliability and predictability in the cloud.
 Describe the benefits of security and governance in the cloud.
-Describe the benefits of manageability in the cloud.
+Describe the benefits of manageability in the cloud. ANOTHER_EDIT
 Describe the benefits of high availability and scalability in the cloud.
 Describe the benefits of reliability and predictability in the cloud.
-Describe the benefits of security and governance in the cloud.
+Describe the benefits of security and governance in the cloud. ANOTHER_EDIT
 Describe the benefits of manageability in the cloud.
 Describe the benefits of high availability and scalability in the cloud.
 Describe the benefits of reliability and predictability in the cloud.
