@@ -1,0 +1,10 @@
+Here are some real-world examples of data events:
+A audio-video platform that streams A/V data over a TCP network.
+A credit card processing gateway tasked with real-time transaction approval and fraud detection.
+A stock exchange that deals with the constant influx of stock trading transactions.
+An airline's internet-of-things (IOT) system sending airplane sensor data to a central system.
+A street traffic application that monitors live road traffic and sends alerts to users in real time.
+A website analytics system that receives and analyzes a constant stream of user interaction data.
+The list above is a tiny sample to illustrate the kind of data that modern enterprise software systems frequently deal with.
+These types of data events occur in almost all the business and technical domains in which software plays a role:
+Banking, brokerages, financial clearinghouses, video/audio streaming platforms, e-commerce systems, healthcare solutions, entertainment, hospitality, news media, communication sector, education... the list goes on, into every imaginable aspects of our lives.
